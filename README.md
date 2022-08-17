@@ -9,4 +9,6 @@ Now's your chance to check out what RNA was like during the Alpha/Beta stages!
 - The most recent Kotlin-based versionf of Discord Stable and Discord Beta
 - The first stable release of Discord RNA from 16/08/2022
 
-Thanks for using my snapshot!
+
+Thanks for using my snapshot!<br>
+"RNA" stands for **React Native Android**.
